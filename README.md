@@ -1,4 +1,17 @@
-### Hi there 👋
+<h1 align="center">Well, Hello There 👋!  I am M. Fakhrul Rozi</h1>
+<h3 align="center"> A Web Developer | Laravel </h3>
+<!-- <p align="center"><i>Sometimes Fullstack Developer too!</i></p> -->
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MF-Rozi&theme=synthwave&hide_border=true)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MF-Rozi&show_icons=true&theme=synthwave&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MF-Rozi&theme=synthwave&layout=compact&hide_border=true&count_private=true&show_icons=true)
+</div>
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **MF-Rozi/MF-Rozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
