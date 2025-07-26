@@ -1,6 +1,6 @@
 <h1 align="center">Well, Hello There 👋!  I am M. Fakhrul Rozi</h1>
 <h3 align="center"> A Web Developer | Laravel </h3>
-<!-- <p align="center"><i>Sometimes Fullstack Developer too!</i></p> -->
+<p align="center"><i>Sometimes Fullstack Developer too!</i></p>
 
 <div align="center">
   
