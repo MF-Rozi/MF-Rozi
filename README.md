@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=MF-Rozi&exclude_days=Sun%2CSat&theme=dark&dates=11EBE2&sideLabels=EB832B)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MF-Rozi&exclude_days=Sun%2CSat&theme=dark&dates=11EBE2&sideLabels=EB832B)](https://streak-stats.demolab.com?user=MF-Rozi&exclude_days=Sun%2CSat&theme=dark&dates=11EBE2&sideLabels=EB832B)<!--(https://git.io/streak-stats) -->
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MF-Rozi&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true) -->
 
