@@ -9,7 +9,7 @@
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MF-Rozi&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MF-Rozi&theme=synthwave&layout=compact&hide_border=true&count_private=true&show_icons=true)
-</div
+</div>
 
 <!-- ### Hi there 👋 -->
 
