@@ -1,29 +1,45 @@
-<h1 align="center">Well, Hello There 👋!  I am M. Fakhrul Rozi</h1>
-<h3 align="center"> A Web and Mobile Developer </h3>
-<p align="center"><i>Sometimes Fullstack Developer too!</i></p>
+<div align="center">
+
+# Hi, I'm M. Fakhrul Rozi 👋
+### Full-Stack & Mobile Engineer • Technical Trainer & Instructor
+**Pekanbaru, Riau, Indonesia**
+
+[![Website](https://img.shields.io/badge/Live_Portfolio-mfrozi.my.id-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://mfrozi.my.id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-M._Fakhrul_Rozi-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mf-rozi)
+[![Email](https://img.shields.io/badge/Email-m.fakhrulrozi10@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.fakhrulrozi10@gmail.com)
+
+</div>
+
+---
+
+### 🚀 About Me
+- 🌐 **Full-Stack & Mobile**: Specializing in high-performance web systems (**Laravel**, **Next.js 16**, **TypeScript**) and cross-platform mobile apps (**Flutter / Dart**).
+- 👨‍🏫 **Technical Instructor**: Delivered government & vocational web development training curricula (**BPVP**, **BLK**, **PBL**).
+- 🎓 **Informatics Engineering Graduate** from UIN Sultan Syarif Kasim Riau (GPA: 3.53 / 4.0).
+- ⚡ **Lead Developer** for the *Wisata BUMNag* village tourism platform (250+ backend commits).
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+```
+Mobile      : Flutter, Dart, Android (Kotlin / Java)
+Frontend    : Next.js (App Router), React 19, TypeScript, Tailwind CSS, Chakra UI
+Backend     : Laravel, PHP, Filament Admin, Go, Python, Node.js
+Database    : MySQL, SQLite, Firebase
+DevOps/Tool : Docker, Git, Linux, Vercel
+```
+
+---
+
+### 🌟 Featured Highlights
+- 📱 [**Expense Tracker**](https://github.com/MF-Rozi/expense-tracker) — Local-first Flutter personal finance app with offline sync.
+- 🌐 [**Wisata BUMNag**](https://github.com/adryanev/wisata-bumnag) — Enterprise village tourism administration platform & APIs (Lead Developer, 250+ commits).
+- 💻 [**Next Lumina Dev Portfolio**](https://github.com/MF-Rozi/next-lumina-dev-portfolio) — Modern Next.js 16 developer portfolio template ([Live Demo](https://mfrozi.my.id)).
+- 🤖 [**Discord Bot Dashboard**](https://github.com/MF-Rozi/discord-bot-dashboard) — TypeScript Next.js dashboard template with multi-language i18n.
+- 👨‍🏫 [**BPVP Workshop Materials**](https://github.com/MF-Rozi/final-project-bpvp) — Curriculum and benchmark starter project for vocational training participants.
 
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=MF-Rozi&exclude_days=Sun%2CSat&theme=dark&dates=11EBE2&sideLabels=EB832B)](https://streak-stats.demolab.com?user=MF-Rozi&exclude_days=Sun%2CSat&theme=dark&dates=11EBE2&sideLabels=EB832B)<!--(https://git.io/streak-stats) -->
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MF-Rozi&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true) -->
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MF-Rozi&theme=synthwave&layout=compact&hide_border=true&count_private=true&show_icons=true)
+  <br />
+  <a href="https://mfrozi.my.id">👉 <b>Explore Full Interactive Portfolio at mfrozi.my.id</b> 👈</a>
 </div>
--->
-<!-- ### Hi there 👋 -->
-
-<!--
-**MF-Rozi/MF-Rozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
