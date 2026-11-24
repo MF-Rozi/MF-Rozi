@@ -4,9 +4,9 @@
 ### Full-Stack, Mobile & Systems Engineer • Technical Instructor
 **Pekanbaru, Riau, Indonesia**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mfrozi.my.id-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://mfrozi.my.id)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-M._Fakhrul_Rozi-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mf-rozi)
-[![Email](https://img.shields.io/badge/Email-m.fakhrulrozi10@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.fakhrulrozi10@gmail.com)
+[![Portfolio](./assets/badge-portfolio.svg)](https://mfrozi.my.id)
+[![LinkedIn](./assets/badge-linkedin.svg)](https://linkedin.com/in/mf-rozi)
+[![Email](./assets/badge-email.svg)](mailto:m.fakhrulrozi10@gmail.com)
 
 <br/>
 
@@ -68,6 +68,6 @@
 <div align="center">
   <br />
   <a href="https://mfrozi.my.id/projects">
-    <img src="https://img.shields.io/badge/Browse_All_17_Projects_&_Galleries_at_mfrozi.my.id-0f172a?style=for-the-badge" alt="Browse All 17 Projects" />
+    <img src="./assets/badge-browse-projects.svg" alt="Browse All 17 Projects" />
   </a>
 </div>
